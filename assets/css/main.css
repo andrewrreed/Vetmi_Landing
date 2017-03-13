@@ -2759,7 +2759,7 @@
 			background-color: #333;
 			color: rgba(255, 255, 255, 1);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/beach.jpg"), url("../../images/header.jpg");
+			background-image: url("images/beach_cropped.jpg"), url("../../images/header.jpg");
 			background-size: cover;
 			}
 
